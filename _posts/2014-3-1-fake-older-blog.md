@@ -1,3 +1,8 @@
+---
+layout: post
+title: You're up and running!
+---
+
 this is my fake older post .
 
 <table style="width:100%">
