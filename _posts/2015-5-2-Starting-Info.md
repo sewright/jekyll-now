@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome!"
-published: false
+published: true
 ---
 
 ## This is a list summarizing stuff
