@@ -6,7 +6,7 @@ published: false
 
 ## This is a list summarizing stuff
 
-1. Chekc your 
+1. Check your 
 2. Do the 
 3. Important dates.
 
